@@ -30,6 +30,9 @@ pip install requests chardet web.py sqlalchemy gevent psutil
 3.安装lxml:
 apt-get install python-lxml
 <br/>
+4.我的经验：
+貌似在python2上按照上述安装仍然缺少lxml
+pip install lxml
 注意：
 
 * python3下的是pip3
